@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1745992789 source:c:\users\administrator\documents\coding\hospital\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
