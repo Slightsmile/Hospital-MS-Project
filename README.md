@@ -1,6 +1,6 @@
 # Simple Hospital Patient Management System
 
-This is a simple console-based Hospital Patient Management System written in C. It allows basic management of patient records such as adding new patients, displaying patient information, and sorting patients by room number.
+This is a simple console-based Hospital Patient Management System written in C. It allows basic management of patient records such as adding new patients, displaying patient information, sorting patients by room number and searching patient.
 
 ## Features
 
